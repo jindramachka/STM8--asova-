@@ -1,3 +1,5 @@
+Následující text je z README.md souboru toolchainu k programování STM8 Jana Vykydala (https://gitlab.com/wykys/stm8-tools), který jsem v projektu použil. Jednou tady snad bude vhodnější popis:)
+
 # STM8 Tools
 
 Šablona projektu k vývoji firmwaru pro mikrokontroléry z rodiny STM8S.
